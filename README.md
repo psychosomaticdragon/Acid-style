@@ -48,12 +48,19 @@ i'm lazy, i'll change it later aight?
 #EXAMPLES:
 
 https://gfycat.com/WeightyDaringHoatzin
+
 https://gfycat.com/ThirdThoroughFruitfly
+
 https://gfycat.com/LonelyPoisedKob
+
 http://i.imgur.com/e9N4c59.gifv
+
 https://i.imgur.com/CQReIsd.gifv
+
 https://gfycat.com/FrequentWickedKusimanse
+
 https://gfycat.com/FantasticViciousIndigowingedparrot
+
 https://gfycat.com/MindlessUnselfishArgentinehornedfrog
 
 
