@@ -17,19 +17,33 @@ If you want to go in more depth with what the parameters do, for now just play w
 
 #TROUBLESHOOTING
 > it's too blurry!
-  try turning down the feedback start/max, and possibly either turn down or turn up warp start/warp max.
+
+try turning down the feedback start/max, and possibly either turn down or turn up warp start/warp max.
+  
 > it's too trippy!
-  turn down the learning rate, noise ratio/max
+
+turn down the learning rate, noise ratio/max
+
 > too much is moving!
-  increase the warp thresh parameter.
+
+increase the warp thresh parameter.
+
 > too little is moving!
-  decrease the warp thresh, if that doesn't help increase the warp ratio a little bit. PROTIP - anything in the params you see that isn't above 1, is not meant to go above 1. please no breaky.
+
+decrease the warp thresh, if that doesn't help increase the warp ratio a little bit. PROTIP - anything in the params you see that isn't above 1, is not meant to go above 1. please no breaky.
+
 > it's moving too slow
-  increase the num_oscillations parameter
+
+increase the num_oscillations parameter
+
 > it's moving too fast!
-  reverse the above.
+
+reverse the above.
+
 > why the hell is the number of images controlled by num iterations divided by save iter?
-  i'm lazy, i'll change it later aight?
+
+i'm lazy, i'll change it later aight?
+
   
 #EXAMPLES:
 
