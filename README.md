@@ -69,3 +69,16 @@ original code based off
   howpublished = {\url{https://github.com/jcjohnson/neural-style}},
 }
 ```
+
+Bunch of warp stuff ripped from
+```
+@TechReport{RuderDB2016,
+  author = {Manuel Ruder and Alexey Dosovitskiy and Thomas Brox},
+  title = {Artistic style transfer for videos},
+  institution  = "arXiv:1604.08610",
+  year         = "2016",
+}
+```
+
+pretty sure that's all in terms of attribution, but i'll go over it with a fine tooth comb later to make sure everyone gets their citations.
+
